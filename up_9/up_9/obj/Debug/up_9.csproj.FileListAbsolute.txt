@@ -1,0 +1,10 @@
+C:\fooooolder\repositories\up_9\up_9\up_9\bin\Debug\up_9.exe.config
+C:\fooooolder\repositories\up_9\up_9\up_9\bin\Debug\up_9.exe
+C:\fooooolder\repositories\up_9\up_9\up_9\bin\Debug\up_9.pdb
+C:\fooooolder\repositories\up_9\up_9\up_9\bin\Debug\Libka.dll
+C:\fooooolder\repositories\up_9\up_9\up_9\bin\Debug\Libka.pdb
+C:\fooooolder\repositories\up_9\up_9\up_9\obj\Debug\up_9.csprojAssemblyReference.cache
+C:\fooooolder\repositories\up_9\up_9\up_9\obj\Debug\up_9.csproj.CoreCompileInputs.cache
+C:\fooooolder\repositories\up_9\up_9\up_9\obj\Debug\up_9.csproj.CopyComplete
+C:\fooooolder\repositories\up_9\up_9\up_9\obj\Debug\up_9.exe
+C:\fooooolder\repositories\up_9\up_9\up_9\obj\Debug\up_9.pdb

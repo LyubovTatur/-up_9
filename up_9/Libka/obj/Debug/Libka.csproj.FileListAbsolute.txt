@@ -1,0 +1,6 @@
+C:\fooooolder\repositories\up_9\up_9\Libka\bin\Debug\Libka.dll
+C:\fooooolder\repositories\up_9\up_9\Libka\bin\Debug\Libka.pdb
+C:\fooooolder\repositories\up_9\up_9\Libka\obj\Debug\Libka.csprojAssemblyReference.cache
+C:\fooooolder\repositories\up_9\up_9\Libka\obj\Debug\Libka.csproj.CoreCompileInputs.cache
+C:\fooooolder\repositories\up_9\up_9\Libka\obj\Debug\Libka.dll
+C:\fooooolder\repositories\up_9\up_9\Libka\obj\Debug\Libka.pdb
